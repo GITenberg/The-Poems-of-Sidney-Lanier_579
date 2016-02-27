@@ -1,0 +1,25 @@
+_repo: The-Poems-of-Sidney-Lanier_579
+creator:
+  author:
+    agent_name: Lanier, Sidney
+    birthdate: 1842
+    deathdate: 1881
+    gutenberg_agent_id: '299'
+    url: http://www.gutenberg.org/2009/agents/299
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Lanier
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- !lcsh 'Pastoral poetry'
+title: The Poems of Sidney Lanier
+url: http://www.gutenberg.org/ebooks/579
