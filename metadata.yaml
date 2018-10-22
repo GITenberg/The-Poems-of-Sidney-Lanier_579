@@ -1,5 +1,5 @@
 _repo: The-Poems-of-Sidney-Lanier_579
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'American poetry'
 - !lcsh 'Pastoral poetry'
+- GITenberg
 title: The Poems of Sidney Lanier
 url: http://www.gutenberg.org/ebooks/579
